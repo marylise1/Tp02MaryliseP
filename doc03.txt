@@ -1,0 +1,7 @@
+*******************git status (ligne 8)**************************
+
+On branch travail
+nothing to commit, working tree clean
+
+
+*******************
