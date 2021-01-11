@@ -1,0 +1,39 @@
+ Créer une banche travail et s'y placer
+ Complèter le message de voeux du doc01.txt en ajoutant Bonjour et en signant. 
+ Valider les modifications de doc01.txt
+ créer un document doc02.txt et ajouter du texte dedans, par ex : je l'appelle toto et je suis né un 1er avril et ce n'est pas une blague. 
+ Valider les modifications de doc02.txt
+ Créer un fichier vide doc03.txt
+ Valider cette création
+ lancer git status et inserer le contenu dans doc03.txt 
+ Valider les modifications de doc03.txt
+ Créer un fichier doc04.txt 
+ Valider la création 
+ Lancer un git log et inserer le contenu dans doc04.txt
+ Valider les modifications
+ Se placer sur la branche master
+ Créer un fichier doc05.txt
+ valider la création
+ lancer git status et inserer le contenu dans doc05.txt
+ Créer un fichier doc06.txt
+ Lancer un git log et inserer le contenu dans doc06.txt
+ Valider les modifications
+ Fusionner la branche travail sur la branche master 
+ Comparer les fichier doc04.txt et doc06.txt notez les différences dans un fichier doc07.txt
+ Valider les modifications
+ Transferer l'ensemble de votre projet sur votre github 
+ Sur votre github, dans votre projet TP02.2021, utilisez le bouton "Add File". 
+ Dans le menu choisissez create new file
+ Nommez ce fichier doc07.txt (rectangle situé après tp02-2021/ et avant le bouton "cancel")
+ Dans le cadre en dessous, là où il y a un 1 de marqué saisissez du texte : mon premier texte saisie en ligne sur github
+ Descendez tout en bas de la page et vous y trouverez un cadre réserver au commit. 
+ Effecter le commit depuis cette partie là. (bouton commit new file)
+ Mettez à jour votre dépot local à partir du dépot github (utilisation de la commande git pull)
+ Créer un fichier doc08.txt
+ Inserer le résultat de la commande git log dans le fichier doc08.txt
+ Valider 
+ Transferer l'ensemble du projet sur votre github. 
+ Récuperer le zip. 
+ Le déposer sur moodle. 
+ 
+ 
