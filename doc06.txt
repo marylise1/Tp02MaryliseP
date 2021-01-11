@@ -1,0 +1,14 @@
+******************* git log ligne 19************************
+
+commit 43bccfe995ba09ccdf267913d08f7d459b3a7218 (HEAD -> main)
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Mon Jan 11 17:51:36 2021 +0100
+
+    Ligne 16 travail a faire (creation doc05)
+
+commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD)
+Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+Date:   Mon Jan 11 17:14:17 2021 +0100
+
+    Add files via upload
+***************************
