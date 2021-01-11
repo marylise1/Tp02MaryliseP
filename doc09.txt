@@ -1,0 +1,86 @@
+***************************
+
+
+commit 8f183b832e743ed790aeafdb9ab92d8b09351b86 (HEAD -> main, origin/main)
+Author: marylise1 <77016598+marylise1@users.noreply.github.com>
+Date:   Mon Jan 11 18:26:19 2021 +0100
+
+    Create doc08.txt
+
+    Commit en ligne sur github
+
+commit 3de542f7e2f326adfba6358b4388448b81c625b5
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Mon Jan 11 18:20:42 2021 +0100
+
+    Ligne 23 travail a faire (fichier doc07)
+
+commit 51a95d5b1e0a179a72e9d5b1de7e52e4859a0274
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Mon Jan 11 18:10:01 2021 +0100
+
+    Rectification d'un oubli de git add doc05 auparavant
+
+commit 5cd583c3d72d8d0d272da95d2a5e4323b6daaa85
+Merge: fe64b68 b100bee
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Mon Jan 11 18:00:27 2021 +0100
+
+    Merge branch 'travail'
+
+commit fe64b68bfaf78e41414acd2101ae626acf60a863
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Mon Jan 11 17:58:07 2021 +0100
+
+    Ligne 20 travail a faire
+
+commit 43bccfe995ba09ccdf267913d08f7d459b3a7218
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Mon Jan 11 17:51:36 2021 +0100
+
+    Ligne 16 travail a faire (creation doc05)
+
+commit b100beee937fde5c17acd100e07c62bd041d38cc (travail)
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Mon Jan 11 17:42:00 2021 +0100
+
+    ligne 13 travail a faire (insertion git log dans doc04)
+
+commit 7003a324d6ccf052e44b5fa026b29b29fd543dcc
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Mon Jan 11 17:39:33 2021 +0100
+
+    ligne 11 travail à faire (creation fichier 4)
+
+commit 05e3d3f2f5d75982c8e1cfe1abfb4f7d4588427d
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Mon Jan 11 17:37:23 2021 +0100
+
+    Ligne 9 travail a faire (insertion git status doc03)
+
+commit e96578722952f379f670bbe950e4373a694ce30d
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Mon Jan 11 17:34:44 2021 +0100
+
+    Ligne 7 travail a faire  (creation fichier 3)
+
+commit f55e2cb3c37412081ace22a2fea335b496afda79
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Mon Jan 11 17:33:23 2021 +0100
+
+    Ligne 5 travail a faire
+
+commit daa66b9cea7a8da7ff09712769489914a1f74234
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Mon Jan 11 17:30:38 2021 +0100
+
+    Ligne 3 travail a faire
+
+commit 493624c694e76835de3f3f4c60f1d61e87430d7d
+Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+Date:   Mon Jan 11 17:14:17 2021 +0100
+
+    Add files via upload
+**********************************
+
+
